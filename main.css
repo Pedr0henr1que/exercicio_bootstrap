@@ -1,0 +1,11 @@
+h2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 1%;
+    padding: 16px;
+}
+
+.form-group input{
+    margin-bottom: 1%;
+}
